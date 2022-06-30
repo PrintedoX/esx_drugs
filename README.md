@@ -6,3 +6,4 @@
 2) Add **start esx_drugs** to your **sever.cfg** file
 3) Add the SQL file **esx_drugs.sql**
 4) Restart your server
+ 
